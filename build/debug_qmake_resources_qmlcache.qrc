@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<RCC version="1.0">
+    <qresource prefix="/quickapp">
+        <file alias="main.qml">../quickapp/main.qml</file>
+        <file alias="FigureButton.qml">../quickapp/FigureButton.qml</file>
+        <file alias="SideButton.qml">../quickapp/SideButton.qml</file>
+        <file alias="DisplayArea.qml">../quickapp/DisplayArea.qml</file>
+        <file alias="OpenSans.ttf">../quickapp/OpenSans.ttf</file>
+    </qresource>
+</RCC>
