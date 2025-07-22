@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/quickapp">
+        <file>FigureButton.qml</file>
+        <file>SideButton.qml</file>
+        <file>DisplayArea.qml</file>
+        <file>StatusBar.qml</file>
+        <file>OpenSans.ttf</file>
+    </qresource>
+</RCC>
